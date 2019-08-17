@@ -1,0 +1,6 @@
+.scroll {
+  overflow: scroll;
+  position: sticky;
+  height: 500px;
+  border: 5px solid black;
+}
